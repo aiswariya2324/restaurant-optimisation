@@ -56,8 +56,8 @@ Restaurants include Chilos Burgers, Navarasa, Kazoza, SUMO, Hoi An Quan, Cosmo B
 | Metric | SA Optimal | Greedy Baseline |
 |--------|-----------|-----------------|
 | **Total Satisfaction** | Higher | Lower (decay losses) |
-| **Total Cost** | ✅ Within £150 | ❌ Overspends budget |
-| **Feasible** | ✅ Yes | ❌ No |
+| **Total Cost** | Within £150 |  Overspends budget |
+| **Feasible** |  Yes |  No |
 | **Unique Cuisines** | 9 | Fewer (repetition) |
 | **Feasible runs (15 seeds)** | 15/15 | N/A |
 
